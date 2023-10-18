@@ -1,1 +1,1 @@
-# Resume
+This project has been created to achieve several objectives among thme being: improve my coding skills; upgrade and document this project while storing previous versions as my skills improve; direct my potential clients and employer to see how far I have come and how far I am willing to go; to be able to add the skills I learn every day to my resume and have a competitive edge as a developer.
